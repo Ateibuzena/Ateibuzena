@@ -1,16 +1,48 @@
-### Hi there 👋
+# Ana Zubieta
 
-<!--
-**Ateibuzena/Ateibuzena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Ana Zubieta, a passionate individual in the realm of data science. At 27 years old, I am dedicated to exploring and leveraging the power of data to derive meaningful insights and solve real-world problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Age:** 27
+- **Occupation:** Data Scientist
+
+## Interests
+
+- 📊 Data Science
+- 🤖 Machine Learning
+- 📈 Statistics
+- 🌐 Exploring new datasets
+
+## Skills
+
+### Programming Languages
+- 🐍 Python
+
+### Data Manipulation and Analysis
+- 🐼 pandas
+- 🔢 NumPy
+
+### Machine Learning
+- 🧠 scikit-learn
+- 🌊 H2O.ai 
+
+### Statistical Analysis
+- 📈 SciPy
+- 📊 statsmodels
+
+### Database
+- 💾 SQL (MySQL)
+
+### Visualization
+- 📊 Matplotlib
+- 📈 Seaborn
+
+### Other Tools
+- 🌐 Anaconda
+- 📓 Jupyter Notebooks
+- 💻 Visual Studio Code
+- 🔄 Git
+
+Feel free to explore my repositories and projects. Let's connect and collaborate on exciting data-driven endeavors!
+```
