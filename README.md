@@ -11,8 +11,8 @@ Hi there! 👋 I'm Ana Zubieta, a passionate individual in the realm of data sci
 
 ## Skills
 
-| Programming Languages | Data Manipulation and Analysis | Machine Learning      | Statistical Analysis | Database         | Visualization     |
-|--------------------|-------------------|--------------------------------|---------------------------|--------------------------|----------------------------|
+|Programming Languages|Data Manipulation and Analysis|Machine Learning     |Statistical Analysis|Database        |Visualization    |
+|--------------------|-------------------|-------------------------------------------|---------------------------|--------------------------|------------------------------|
 | Python 🐍            | pandas 🐼                        | scikit-learn 🧠             | SciPy 📈               | SQL (MySQL) 💾   | Matplotlib 📊       |
 |                       | NumPy 🔢                         | H2O.ai 🌊              | statsmodels 📊         |                   | Seaborn 📈          |
 
