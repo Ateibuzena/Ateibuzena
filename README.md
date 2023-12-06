@@ -11,33 +11,18 @@ Hi there! 👋 I'm Ana Zubieta, a passionate individual in the realm of data sci
 
 ## Skills
 
-### Programming Languages
-- 🐍 Python
-
-### Data Manipulation and Analysis
-- 🐼 pandas
-- 🔢 NumPy
-
-### Machine Learning
-- 🧠 scikit-learn
-- 🌊 H2O.ai 
-
-### Statistical Analysis
-- 📈 SciPy
-- 📊 statsmodels
-
-### Database
-- 💾 SQL (MySQL)
-
-### Visualization
-- 📊 Matplotlib
-- 📈 Seaborn
-
-### Other Tools
-- 🌐 Anaconda
-- 📓 Jupyter Notebooks
-- 💻 Visual Studio Code
-- 🔄 Git
+| Category                        | Libraries                   |
+|---------------------------------|-----------------------------|
+| Programming Languages           | 🐍 Python                   |
+| Data Manipulation and Analysis   | 🐼 pandas                   |
+|                                 | 🔢 NumPy                    |
+| Machine Learning                | 🧠 scikit-learn             |
+|                                 | 🌊 H2O.ai                   |
+| Statistical Analysis            | 📈 SciPy                    |
+|                                 | 📊 statsmodels              |
+| Database                        | 💾 SQL (MySQL)              |
+| Visualization                   | 📊 Matplotlib               |
+|                                 | 📈 Seaborn                 |
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting data-driven endeavors!
 ```
