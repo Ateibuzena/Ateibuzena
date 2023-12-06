@@ -1,11 +1,6 @@
-# Ana Zubieta
+# Ana Zubieta, Data Scientist 👩‍💻📊
 
 Hi there! 👋 I'm Ana Zubieta, a passionate individual in the realm of data science. At 27 years old, I am dedicated to exploring and leveraging the power of data to derive meaningful insights and solve real-world problems.
-
-## About Me
-
-- **Age:** 27
-- **Occupation:** Data Scientist
 
 ## Interests
 
