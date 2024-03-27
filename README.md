@@ -8,13 +8,14 @@ Hi there! 👋 I'm Ana Zubieta, a passionate individual in the realm of data sci
 - 🤖 Machine Learning
 - 📈 Statistics
 - 🌐 Exploring new datasets
+- 🛠️ Data Engineering
 
 ## Skills
 
 | Programming Languages | Data Manipulation and Analysis | 
 |------------------------|---------------------------------|
 | 🐍 Python             | 🐼 pandas                        |
-|                       | 🔢 NumPy                         |
+| 💾 C                  | 🔢 NumPy                         |
 
 | Machine Learning      | Statistical Analysis | Database         | Visualization     |
 |------------------------|------------------------|-------------------|---------------------|
