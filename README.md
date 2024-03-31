@@ -23,7 +23,7 @@ Hi there! 👋 I'm Ana Zubieta, a passionate individual in the realm of data sci
 | 🌊 H2O.ai               | 📊 statsmodels         | 🍃 MongoDB        | 📈 Power BI         |
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting data-driven endeavors!
-```
+
 <h2><img src="src/stats.gif" height="30"> Estadísticas de GitHub <img src="src/stats.gif" height="30"></h2>
 
 <a href="https://github.com/Ateibuzena">
