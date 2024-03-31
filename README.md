@@ -30,7 +30,7 @@ Feel free to explore my repositories and projects. Let's connect and collaborate
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Ateibuzena&rank_icon=github&bg_color=00000000&locale=es&include_all_commits=true&show_icons=true&hide=contribs&custom_title=Ateibuzena's+Statistics" />
 </a>
 
-<a href="https://github.com/EseToni">
+<a href="https://github.com/Ateibuzena">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ateibuzena&langs_count=8&layout=compact&bg_color=00000000&locale=es" />
 </a>
 <br><br>
