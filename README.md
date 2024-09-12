@@ -1,87 +1,54 @@
 # Hello, I'm Ana Zubieta 👋
 
+Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Algorithm Developer**, and **AI Enthusiast**. Here you'll find a collection of my projects and contributions that reflect my skills and interests in data science, machine learning, and algorithm development.
+
 ## About Me
 
-I am a **Data Scientist**, **Algorithm Developer**, and **AI Developer** with experience in automated modeling, data architecture, and analysis. I have advanced skills in C and Python and am passionate about designing, analyzing, implementing, and optimizing algorithms to create efficient and scalable solutions.
+With a strong foundation in automated modeling, data architecture, and algorithm design, I love creating efficient and scalable solutions. My work is driven by a passion for solving complex problems and optimizing processes. I’m proficient in Python, C, and various tools and technologies used in data science and AI.
 
-🗨 **Email:** ena.ateibuz@gmail.com  
-📞 **Phone:** +34 681 95 81 23  
-🌐 **LinkedIn:** [ana-zubieta](https://www.linkedin.com/in/ana-zubieta)  
-🦊 **GitHub:** [Ateibuzena](https://github.com/Ateibuzena)  
-🎈 **Date of Birth:** July 1996
+## What I Do
 
-## Professional Experience
-
-- **Freelance Remote** | *Present*  
-  Advancing in data science, web development, and IT consulting through self-directed projects, skill refinement in Python, JavaScript, Machine Learning, and Cybersecurity, and professional development.
-
-- **Recyclo Bike Café - Chef** | *Málaga* | *Present*  
-  Excel in leadership, decision-making under pressure, task organization, resource management, problem-solving, teamwork, adaptability, effective communication, and attention to detail.
-
-- **Hotel Barcelo Montecastillo Golf & Sports Resort | GOIKO | Arcasa, S.L.** | *2015 - 2023*  
-  Professional growth in various companies, strengthening leadership skills, decision-making under pressure, task organization, resource management, meticulous preparation, and dynamic problem-solving mindset.
-
-## Education
-
-- **42 Málaga Fundación Telefónica** | *January 2024 - Present*  
-  Training in programming and software development through a self-taught, project-based learning environment. Acquiring skills in languages such as C, C++, Python, and JavaScript, and gaining experience in artificial intelligence, web development, cybersecurity, and software architecture.
-
-- **Hack a Boss Data Science and AI** | *2023 - 2024*  
-  Developed strong skills in data collection, cleaning, preprocessing, exploratory and descriptive analysis, data visualization, and building predictive models. Learned to apply machine learning algorithms and design deep learning models for advanced data analysis.
-
-- **Double Degree in Mathematics and Telematics Engineering** | *Universitat de les Illes Balears* | *2nd year completed*  
-  Training in calculus, linear algebra, probability, statistics, numerical methods, and engineering fundamentals such as physics, circuits, programming, and communication networks.
-
-- **Technological High School** | *IES Las Cumbres* | *2017 - 2019*  
-  Training in Physics, programming, and technical drawing, focusing on scientific analysis and software development.
-
-- **Vocational Degree in Culinary Arts and Gastronomy** | *IES Alminares* | *2015 - 2017*  
-  Attention to detail, precision, organizational skills, time management, working under pressure, teamwork, problem-solving, adaptability, continuous learning, creativity, and process improvement.
-
-## Technical Skills
-
-- **Automated Modeling:** Expertise in automated modeling for data science and machine learning, including NLP models, time series forecasting, predictive financial models, and efficient data extraction using AI.
-- **Algorithm Design:** Advanced skills in algorithm design, code optimization, and implementation of data structures. Developed custom algorithms and a personal library with thorough documentation.
-- **Data Architecture:** Advanced SQL and database design skills from Data Science bootcamp, with experience in managing large datasets using MySQL Workbench to improve scalability and performance.
-- **Methodologies:** Experienced in Scrum for agile project management, focused work intervals for productivity, and self-directed, collaborative learning at 42 Málaga Fundación Telefónica.
-
-### Tools & Technologies
-
-- **Programming Languages:** Python, SQL, C
-- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning and AI:** Scikit-Learn, TensorFlow, Keras
-- **Database Management:** MySQL
-- **Big Data Processing:** Apache Spark, PySpark
-- **IDEs and Text Editors:** Visual Studio Code, PyCharm, Jupyter Notebook
-- **Project Management:** Scrum, Trello
-
-### Courses
-
-- Power BI (Present)
-- SQL (Present)
-- Cambridge English Certificate (2013)
-
-### Key Achievements
-
-- **Hackatón 2024 (Second Place):** Developed a web application for bank transaction analysis and a future savings prediction model. Recognized for its innovative approach to financial forecasting. [Link: Hackatón 2024](#)
-- **Ideatón 2024 (Third Place):** Proposed an innovative solution to integrate technology into the cultural sector. Designed a concept for an art museum. [Link: Ideatón 2024](#)
+- **Data Science & Machine Learning:** I build and analyze models to extract insights from data, predict trends, and drive decision-making.
+- **Algorithm Development:** I design and optimize algorithms to solve real-world problems and enhance performance.
+- **Web Development & Data Visualization:** I create interactive applications and visualizations to make data more accessible and actionable.
 
 ## Projects
 
+Here are some of the projects I’ve worked on:
+
 ### [EcoMovilidad: Making Your Journey Easier](https://github.com/Ateibuzena/EcoMovilidad)
-- **Description:** Developed a data science project that analyzes fuel and electricity consumption for various vehicles. Includes a time series model to predict future fuel prices and an interactive map to locate charging stations and gas stations.
-- **Key Technologies:** Data Science, Time Series Modeling, Web Development
+A data science project analyzing fuel and electricity consumption for various vehicles. It includes a time series model for predicting future fuel prices and an interactive map for locating charging and gas stations.
 
 ### [Data Science Introductory Lecture - 42 Málaga Fundación Telefónica](https://www.linkedin.com/posts/ana-zubieta_data-science-lecture-activity-1234567890)
-- **Description:** Delivered an educational lecture on Data Science fundamentals to students at 42 Málaga. Covered key concepts in data science, including data collection, preprocessing, and basic machine learning principles.
-- **Key Focus Areas:** Data Science Basics, Data Collection, Preprocessing, Machine Learning Introduction
+Delivered a lecture on the fundamentals of data science to students at 42 Málaga. Covered essential concepts such as data collection, preprocessing, and basic machine learning principles.
 
 ### [Data Analysis in the Animal Kingdom](https://github.com/Ateibuzena/AnimalIA)
-- **Description:** Led a comprehensive data analysis project exploring patterns in animal data across species. Utilized advanced data collection techniques such as API integration and web scraping.
-- **Key Technologies:** Python, Data Science, Web Scraping, API Integration
+A comprehensive data analysis project exploring patterns in animal data across various species using advanced techniques like API integration and web scraping.
 
 ### [Restaurant Clustering, Recommendation, and Rating Prediction](https://github.com/Ateibuzena/GastronomIA)
-- **Description:** Clustering of restaurants in Madrid using DBSCAN and KMeans algorithms, development of interactive restaurant recommenders for Madrid and Mexico, and a model predicting restaurant ratings based on user reviews.
-- **Key Technologies:** Python, Machine Learning, Streamlit, Unsupervised Learning
+Analyzed and clustered restaurants in Madrid using DBSCAN and KMeans algorithms, developed interactive recommenders, and built a rating prediction model based on user reviews.
 
-You can see more projects on my GitHub: [Ateibuzena](https://github.com/Ateibuzena).
+## Skills & Technologies
+
+- **Programming Languages:** Python, SQL, C
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning & AI:** Scikit-Learn, TensorFlow, Keras
+- **Big Data:** Apache Spark, PySpark
+- **Database Management:** MySQL
+- **Web Development:** JavaScript, Web Technologies
+- **Project Management:** Scrum, Trello
+
+## Get in Touch
+
+Feel free to connect with me or reach out if you have any questions or interesting opportunities!
+
+- **LinkedIn:** [ana-zubieta](https://www.linkedin.com/in/ana-zubieta)
+- **Email:** ena.ateibuz@gmail.com
+
+## Contributions
+
+I am always eager to collaborate on exciting projects and contribute to open-source initiatives. Check out my repositories and let’s build something amazing together!
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
