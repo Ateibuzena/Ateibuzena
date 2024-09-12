@@ -1,6 +1,6 @@
-# Hello, I'm Ana Zubieta 👋
+# Hello, I'm Ana Zubieta 👩🏻‍💻
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist**, **Algorithm Developer**, and **AI Enthusiast**. Here you'll find a collection of my projects and contributions that reflect my skills and interests in data science, machine learning, and algorithm development.
+Welcome to my GitHub profile! 👋 I'm a passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️ , and **AI Enthusiast** 🤖. Here you'll find a collection of my projects and contributions that reflect my skills and interests in data science, machine learning, and algorithm development.
 
 ## About Me
 
@@ -30,13 +30,13 @@ Analyzed and clustered restaurants in Madrid using DBSCAN and KMeans algorithms,
 
 ## Skills & Technologies
 
-- **Programming Languages:** Python, SQL, C
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning & AI:** Scikit-Learn, TensorFlow, Keras
-- **Big Data:** Apache Spark, PySpark
-- **Database Management:** MySQL
-- **Web Development:** JavaScript, Web Technologies
-- **Project Management:** Scrum, Trello
+- **Programming Languages 🐍:** Python, SQL, C
+- **Data Analysis 🔢:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning & AI 🧠:** Scikit-Learn, TensorFlow, Keras
+- **Big Data 💾:** Apache Spark, PySpark
+- **Database Management 📚:** MySQL
+- **Visualization 📊:** Power BI
+- **Project Management 📈:** Scrum, Trello
 
 ## Get in Touch
 
