@@ -1,4 +1,5 @@
 <!-- Encabezado con un color azulito y ondas estilizadas -->
+<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
 
 <!-- Texto de bienvenida con efecto de letras que aparecen y desaparecen -->
 <a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile!+%3A%29)</a>
