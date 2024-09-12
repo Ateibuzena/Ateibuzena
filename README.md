@@ -9,7 +9,7 @@
     <img align="center" alt="Logo-Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
 </div>
 
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=120&section=footer"></a>
+<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=120&section=footer"></a>
 
 # Hello, I'm Ana Zubieta 👩🏻‍💻
 
