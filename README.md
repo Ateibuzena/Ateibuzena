@@ -1,16 +1,12 @@
 # Hello, I'm Ana Zubieta 👩🏻‍💻
 
-Welcome to my GitHub profile! 👋 I'm a passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️ , and **AI Enthusiast** 🤖. Here you'll find a collection of my projects and contributions that reflect my skills and interests in data science, machine learning, and algorithm development.
-
-## About Me
-
-With a strong foundation in automated modeling, data architecture, and algorithm design, I love creating efficient and scalable solutions. My work is driven by a passion for solving complex problems and optimizing processes. I’m proficient in Python, C, and various tools and technologies used in data science and AI.
+Welcome to my GitHub profile! 👋 I'm a passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️ , and **AI Enthusiast** 🤖. With a strong foundation in automated modeling, data architecture, and algorithm design, I love creating efficient and scalable solutions. My work is driven by a passion for solving complex problems and optimizing processes. I’m proficient in Python, C, and various tools and technologies used in data science and AI.
 
 ## What I Do
 
-- **Data Science & Machine Learning:** I build and analyze models to extract insights from data, predict trends, and drive decision-making.
-- **Algorithm Development:** I design and optimize algorithms to solve real-world problems and enhance performance.
-- **Web Development & Data Visualization:** I create interactive applications and visualizations to make data more accessible and actionable.
+- **Data Science & Machine Learning 📊:** I build and analyze models to extract insights from data, predict trends, and drive decision-making.
+- **Algorithm Development 🛠️:** I design and optimize algorithms to solve real-world problems and enhance performance.
+- **Web Development & Data Visualization 🤖:** I create interactive applications and visualizations to make data more accessible and actionable.
 
 ## Projects
 
