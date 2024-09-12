@@ -35,9 +35,11 @@ Feel free to connect with me or reach out if you have any questions or interesti
 
 I am always eager to collaborate on exciting projects and contribute to open-source initiatives. Check out my repositories and let’s build something amazing together!
 
----
+<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
 
-Thank you for visiting my GitHub profile! 🚀
+<a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile.)</a>
+
+<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=footer"></a>
 
 ## Projects
 
@@ -55,8 +57,3 @@ A comprehensive data analysis project exploring patterns in animal data across v
 ### [Restaurant Clustering, Recommendation, and Rating Prediction](https://github.com/Ateibuzena/Proyecto_GastronomIA)
 Analyzed and clustered restaurants in Madrid using DBSCAN and KMeans algorithms, developed interactive recommenders, and built a rating prediction model based on user reviews.
 
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
-
-<a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile.)</a>
-
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=footer"></a>
