@@ -1,12 +1,8 @@
 <!-- Encabezado con un color lilita más oscuro y ondas estilizadas -->
-<a href="#" onclick="return false;">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=9b8fd6&height=120&section=header&text=Hello,+I'm+Ana+Zubieta&fontSize=30&fontColor=ffffff">
-</a>
+<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=9b8fd6&height=120&section=header&text=Hello,+I'm+Ana+Zubieta&fontSize=30&fontColor=ffffff"></a>
 
 <!-- Texto de bienvenida con estilo más robótico -->
-<a href="#" onclick="return false;">
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b8fd6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Be+Welcome!+%3A%29)
-</a>
+<a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9b8fd6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Be+Welcome!+%3A%29)</a>
 
 <!-- Iconos de tecnologías con un borde lilita -->
 <div align="center" style="display: inline_block"><br>
@@ -17,9 +13,7 @@
 </div>
 
 <!-- Pie de página con un color lilita más oscuro y ondas estilizadas -->
-<a href="#" onclick="return false;">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=9b8fd6&height=120&section=footer">
-</a>
+<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=9b8fd6&height=120&section=footer"></a>
 
 
 Welcome to my GitHub profile! 👋 I'm a passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️ , and **AI Enthusiast** 🤖. With a strong foundation in automated modeling, data architecture, and algorithm design, I love creating efficient and scalable solutions. My work is driven by a passion for solving complex problems and optimizing processes. I’m proficient in Python, C, and various tools and technologies used in data science and AI.
