@@ -1,6 +1,3 @@
-¡Por supuesto! Aquí tienes el README en formato Markdown y en inglés:
-
-```markdown
 # Hello, I'm Ana Zubieta 👋
 
 ## About Me
@@ -88,4 +85,3 @@ I am a **Data Scientist**, **Algorithm Developer**, and **AI Developer** with ex
 - **Key Technologies:** Python, Machine Learning, Streamlit, Unsupervised Learning
 
 You can see more projects on my GitHub: [Ateibuzena](https://github.com/Ateibuzena).
-```
