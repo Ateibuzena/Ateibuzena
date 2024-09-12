@@ -37,14 +37,14 @@ Thank you for visiting my GitHub profile! 🚀
 
 Here are some of the projects I’ve worked on:
 
-### [EcoMovilidad: Making Your Journey Easier](https://github.com/Ateibuzena/EcoMovilidad](https://github.com/Ateibuzena/Proyecto_EcoMovilidad)
+### [EcoMovilidad: Making Your Journey Easier](https://github.com/Ateibuzena/Proyecto_EcoMovilidad)
 A data science project analyzing fuel and electricity consumption for various vehicles. It includes a time series model for predicting future fuel prices and an interactive map for locating charging and gas stations.
 
-### [Data Science Introductory Lecture - 42 Málaga Fundación Telefónica](https://www.linkedin.com/posts/ana-zubieta_data-science-lecture-activity-1234567890](https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/)
+### [Data Science Introductory Lecture - 42 Málaga Fundación Telefónica](https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/)
 Delivered a lecture on the fundamentals of data science to students at 42 Málaga. Covered essential concepts such as data collection, preprocessing, and basic machine learning principles.
 
-### [Data Analysis in the Animal Kingdom](https://github.com/Ateibuzena/AnimalIA](https://github.com/Ateibuzena/Proyecto_Animalia)
+### [Data Analysis in the Animal Kingdom](https://github.com/Ateibuzena/Proyecto_Animalia)
 A comprehensive data analysis project exploring patterns in animal data across various species using advanced techniques like API integration and web scraping.
 
-### [Restaurant Clustering, Recommendation, and Rating Prediction](https://github.com/Ateibuzena/GastronomIA](https://github.com/Ateibuzena/Proyecto_GastronomIA)
+### [Restaurant Clustering, Recommendation, and Rating Prediction](https://github.com/Ateibuzena/Proyecto_GastronomIA)
 Analyzed and clustered restaurants in Madrid using DBSCAN and KMeans algorithms, developed interactive recommenders, and built a rating prediction model based on user reviews.
