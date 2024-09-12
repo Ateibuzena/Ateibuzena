@@ -1,9 +1,9 @@
 <a href="#" onclick="return false;">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=120&section=header">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6f61&height=120&section=header">
 </a>
 
 <a href="#" onclick="return false;">
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6fa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+profile!+%3A%29)
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6f61&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+profile!+%3A%29)
 </a>
 
 <div align="center" style="display: inline_block"><br>
@@ -14,8 +14,9 @@
 </div>
 
 <a href="#" onclick="return false;">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=120&section=footer">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6f61&height=120&section=footer">
 </a>
+
 
 # Hello, I'm Ana Zubieta 👩🏻‍💻
 
