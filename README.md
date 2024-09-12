@@ -37,7 +37,7 @@ Thank you for visiting my GitHub profile! 🚀
 
 Here are some of the projects I’ve worked on:
 
-### [EcoMovilidad: Making Your Journey Easier](https://github.com/Ateibuzena/EcoMovilidad)
+### [EcoMovilidad: Making Your Journey Easier]([https://github.com/Ateibuzena/EcoMovilidad](https://github.com/Ateibuzena/Proyecto_EcoMovilidad)
 A data science project analyzing fuel and electricity consumption for various vehicles. It includes a time series model for predicting future fuel prices and an interactive map for locating charging and gas stations.
 
 ### [Data Science Introductory Lecture - 42 Málaga Fundación Telefónica](https://www.linkedin.com/posts/ana-zubieta_data-science-lecture-activity-1234567890)
