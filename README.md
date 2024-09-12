@@ -1,18 +1,7 @@
-<!-- Encabezado con un color azulito y ondas estilizadas -->
 <a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
 
-<!-- Texto de bienvenida con efecto de letras que aparecen y desaparecen -->
 <a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)</a>
 
-<!-- Iconos de tecnologías con borde azulito y sombra sutil -->
-<div align="center" style="display: inline_block; margin: 10px;"><br>
-    <img align="center" alt="Logo-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="border: 2px solid #87cefa; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img align="center" alt="Logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="border: 2px solid #87cefa; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img align="center" alt="Logo-TensorFlow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="border: 2px solid #87cefa; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-    <img align="center" alt="Logo-Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" style="border: 2px solid #87cefa; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-</div>
-
-<!-- Pie de página con un color azulito y ondas estilizadas -->
 <a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=footer"></a>
 
 ## About me 👩🏻‍💻
@@ -66,12 +55,8 @@ A comprehensive data analysis project exploring patterns in animal data across v
 ### [Restaurant Clustering, Recommendation, and Rating Prediction](https://github.com/Ateibuzena/Proyecto_GastronomIA)
 Analyzed and clustered restaurants in Madrid using DBSCAN and KMeans algorithms, developed interactive recommenders, and built a rating prediction model based on user reviews.
 
-
-<!-- Encabezado con un color azulito y ondas estilizadas -->
 <a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
 
-<!-- Texto de bienvenida con efecto de letras que aparecen y desaparecen -->
 <a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile.)</a>
 
-<!-- Pie de página con un color azulito y ondas estilizadas -->
 <a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=footer"></a>
