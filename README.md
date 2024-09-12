@@ -1,15 +1,37 @@
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=120&section=header"></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Orbitron', sans-serif;
+        }
+    </style>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap">
+    <title>Document</title>
+</head>
+<body>
+    <a href="#" onclick="return false;">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a9a9d6&height=120&section=header">
+    </a>
 
-<a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9a9d6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Be+Welcome!+%3A%29)</a>
+    <a href="#" onclick="return false;">
+        ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9a9d6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Be+Welcome!+%3A%29)
+    </a>
 
-<div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Logo-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-    <img align="center" alt="Logo-TensorFlow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-    <img align="center" alt="Logo-Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
-</div>
+    <div align="center" style="display: inline_block"><br>
+        <img align="center" alt="Logo-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+        <img align="center" alt="Logo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+        <img align="center" alt="Logo-TensorFlow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+        <img align="center" alt="Logo-Matplotlib" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg">
+    </div>
 
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=d8bfd8&height=120&section=footer"></a>
+    <a href="#" onclick="return false;">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a9a9d6&height=120&section=footer">
+    </a>
+</body>
+</html>
 
 # Hello, I'm Ana Zubieta 👩🏻‍💻
 
