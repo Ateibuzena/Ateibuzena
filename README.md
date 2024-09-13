@@ -10,9 +10,9 @@
 
 ## What I Do
 
-- **Data Science & Machine Learning 📊:** I build and analyze models to extract insights from data, predict trends, and drive decision-making.
+- **Data Science & Machine Learning 🤖:** I build and analyze models to extract insights from data, predict trends, and drive decision-making.
 - **Algorithm Development 🛠️:** I design and optimize algorithms to solve real-world problems and enhance performance.
-- **Web Development & Data Visualization 🤖:** I create interactive applications and visualizations to make data more accessible and actionable.
+- **Web Development & Data Visualization 📊:** I create interactive applications and visualizations to make data more accessible and actionable.
 
 ## Skills & Technologies
 
