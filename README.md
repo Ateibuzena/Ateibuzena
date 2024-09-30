@@ -1,3 +1,27 @@
+#include <stdbool.h>
+
+int  main(void)
+{
+    struct  about_me jandrana = {
+      .name = "Ana Alejandra Castillejo",
+      .pronouns = {"she", "her"},
+      .age = 21,
+      .student = true,
+      .hired = false,
+      .contact = "yo@anaalejandra.com"
+    };
+
+    struct  student my_studies = {
+      .is_student = true,
+      .status = {"42 Student", "Codecademy", "HackTheBox", "LeetCode"},
+      .campus_42 = "Málaga",
+      .login_42 = "ana-cast",
+      .codecademy_url = "https://www.codecademy.com/profiles/jandrana"
+    };
+
+    return (0);
+}
+
 <a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
 
 <a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)</a>
