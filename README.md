@@ -23,6 +23,8 @@
 
 ## 🚀 Technical Skills
 
+<div align="center">
+
 <table>
   <tr>
     <td><b>💻 Programming Languages</b></td>
@@ -66,6 +68,8 @@
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## 🏆 Projects
@@ -82,7 +86,7 @@
 -->
 
 <details open>
-  <summary><b>My Analytics Dashboard</b> <em>(React, Node.js, Firebase, Web App)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>My Analytics Dashboard</b></span> <em>(React, Node.js, Firebase, Web App)</em></summary>
   <ul>
     <li>Interactive web application to visualize, analyze, and monitor social media and digital platform metrics in real time.</li>
     <li>Centralizes all information in an intuitive and secure dashboard.</li>
@@ -94,7 +98,7 @@
 </details>
 
 <details>
-  <summary><b>EcoMovilidad – Data Science for Sustainable Transportation</b> <em>(Python, Web App, Data Analysis, Sustainability)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>EcoMovilidad – Data Science for Sustainable Transportation</b></span> <em>(Python, Web App, Data Analysis, Sustainability)</em></summary>
   <ul>
     <li>Web application analyzing fuel and electricity consumption in electric, hybrid, and combustion vehicles.</li>
     <li>Helps users compare vehicle types, estimate travel costs, and make informed decisions promoting sustainable mobility.</li>
@@ -107,7 +111,7 @@
 </details>
 
 <details>
-  <summary><b>AI Finance Project – Expense Analysis & Prediction</b> <em>(Hackathon, FinTech, Python, Machine Learning, Time Series)</em> 🏆</summary>
+  <summary><span style="font-size:1.3em;"><b>AI Finance Project – Expense Analysis & Prediction</b></span> <em>(Hackathon, FinTech, Python, Machine Learning, Time Series)</em> 🏆</summary>
   <ul>
     <li>Developed a web app for business expense analysis and prediction in the Startup Week 2024 Hackathon (2nd place).</li>
     <li>Uses ML and time series analysis to predict future expenses with interactive visualizations.</li>
@@ -120,7 +124,7 @@
 </details>
 
 <details>
-  <summary><b>Restaurant Clustering, Recommendation & Rating Prediction</b> <em>(Python, Streamlit, ML, Recommender Systems)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>Restaurant Clustering, Recommendation & Rating Prediction</b></span> <em>(Python, Streamlit, ML, Recommender Systems)</em></summary>
   <ul>
     <li>Comprehensive project combining clustering, recommendation systems, and predictive models for restaurants in Madrid and Mexico.</li>
     <li>
@@ -133,7 +137,7 @@
 </details>
 
 <details>
-  <summary><b>Electric Invoice Information Extraction</b> <em>(Python, NLP, OCR, PDF Processing, Automation)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>Electric Invoice Information Extraction</b></span> <em>(Python, NLP, OCR, PDF Processing, Automation)</em></summary>
   <ul>
     <li>Generic solution to extract key info from electric invoices (PDF) regardless of layout.</li>
     <li>
@@ -144,7 +148,7 @@
 </details>
 
 <details>
-  <summary><b>House Prices: Advanced Regression Techniques</b> <em>(Kaggle Challenge, Python, Regression, Data Science)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>House Prices: Advanced Regression Techniques</b></span> <em>(Kaggle Challenge, Python, Regression, Data Science)</em></summary>
   <ul>
     <li>Advanced regression model to predict house prices using Kaggle dataset.</li>
     <li>
@@ -157,7 +161,7 @@
 </details>
 
 <details>
-  <summary><b>Sentiment Analysis of Product Reviews</b> <em>(NLP, Python, Sentiment Classification, E-commerce)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>Sentiment Analysis of Product Reviews</b></span> <em>(NLP, Python, Sentiment Classification, E-commerce)</em></summary>
   <ul>
     <li>NLP-based model to predict product ratings (1-5) from textual reviews.</li>
     <li>
@@ -167,7 +171,7 @@
 </details>
 
 <details>
-  <summary><b>CNN Image Classification – CIFAR-10</b> <em>(Python, TensorFlow, Deep Learning, GPU Acceleration)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>CNN Image Classification – CIFAR-10</b></span> <em>(Python, TensorFlow, Deep Learning, GPU Acceleration)</em></summary>
   <ul>
     <li>Convolutional Neural Network for image classification using CIFAR-10.</li>
     <li>
@@ -177,7 +181,7 @@
 </details>
 
 <details>
-  <summary><b>Linear Regression Project – 42 Málaga Artificial Intelligence League</b> <em>(Python, Linear Regression, Machine Learning, Data Analysis)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>Linear Regression Project – 42 Málaga Artificial Intelligence League</b></span> <em>(Python, Linear Regression, Machine Learning, Data Analysis)</em></summary>
   <ul>
     <li>Explored simple and multiple linear regression using socioeconomic and housing variables.</li>
     <li>
