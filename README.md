@@ -40,7 +40,7 @@
     <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
   </tr>
     <tr>
-    <td><b>📊 Data Analysis & Visualization</b></td>
+    <td><b>📊 Data Visualization</b></td>
     <td>Matplotlib, Seaborn, Plotly</td>
     <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
   </tr>
