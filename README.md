@@ -1,10 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
-![Footer]([https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=footer))
 
-## About me 👩🏻‍💻
+## About Me 👩🏻‍💻
 
-👋 I'm a passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️ , and **AI Enthusiast** 🤖. With a strong foundation in automated modeling, data architecture, and algorithm design, I love creating efficient and scalable solutions. My work is driven by a passion for solving complex problems and optimizing processes. I’m proficient in Python, C, and various tools and technologies used in data science and AI.
+Hi! I'm **Ana Zubieta**, a passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI Enthusiast** 🤖.  
+I love solving complex problems with **Python**, **C**, and modern tools in **data science & AI**.  
+I build scalable solutions, insightful analyses, and interactive data visualizations.
 
 ## What I Do
 
@@ -14,26 +15,32 @@
 
 ## Skills & Technologies
 
-- **Programming Languages 🐍:** Python, SQL, C
-- **Data Analysis 🔢:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning & AI 🧠:** Scikit-Learn, TensorFlow, Keras
-- **Big Data 💾:** Apache Spark, PySpark
-- **Database Management 📚:** MySQL
-- **Visualization 📊:** Power BI
-- **Project Management 📈:** Scrum, Trello
+**Programming Languages:** 🐍 Python | 💻 C | 🗄️ SQL  
+**Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn  
+**Machine Learning & AI:** Scikit-Learn | TensorFlow | Keras  
+**Big Data:** Apache Spark | PySpark  
+**Database Management:** MySQL  
+**Visualization:** Power BI  
+**Project Management:** Scrum | Trello
 
-## Get in Touch
+## Get in Touch ✉️
 
-Feel free to connect with me or reach out if you have any questions or interesting opportunities!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ana--zubieta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-zubieta)  
+[![Email](https://img.shields.io/badge/Email-ena.ateibuz@gmail.com-red?style=flat&logo=gmail)](mailto:ena.ateibuz@gmail.com)
 
-- **LinkedIn:** [ana-zubieta](https://www.linkedin.com/in/ana-zubieta)
-- **Email:** ena.ateibuz@gmail.com
+## Projects 🚀
 
-## Contributions
+- **[EcoMovilidad: Making Your Journey Easier](https://github.com/Ateibuzena/Proyecto_EcoMovilidad)**  
+  📊 Data science project analyzing fuel & electricity consumption, with predictive time series and interactive maps.
 
-I am always eager to collaborate on exciting projects and contribute to open-source initiatives. Check out my repositories and let’s build something amazing together!
+- **[Data Science Introductory Lecture - 42 Málaga](https://www.linkedin.com/feed/update/urn:li/...)**  
+  🎓 Delivered a lecture on data collection, preprocessing, and basic machine learning principles.
 
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
+- **[Data Analysis in the Animal Kingdom](https://github.com/Ateibuzena/Proyecto_Animalia)**  
+  🐾 Comprehensive analysis exploring patterns across animal species using APIs & web scraping.
+
+- **[Restaurant Clustering & Recommendation](https://github.com/Ateibuzena/Proyecto_GastronomIA)**  
+  🍽️ Clustering with DBSCAN & KMeans, recommendation systems, and rating prediction from reviews.
 
 <a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile.)</a>
 
