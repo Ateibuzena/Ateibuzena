@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
-
+![Footer]([https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=footer))
 
 ## About me 👩🏻‍💻
 
