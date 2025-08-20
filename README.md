@@ -6,6 +6,17 @@ A passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI 
 
 ---
 
+## Skills & Technologies 🛠️
+**Programming Languages:** 🐍 Python | 💻 C | 🗄️ SQL  
+**Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn  
+**Machine Learning & AI:** Scikit-Learn | TensorFlow | Keras  
+**Big Data:** Apache Spark | PySpark  
+**Database Management:** MySQL  
+**Visualization:** Power BI  
+**Project Management:** Scrum | Trello
+
+---
+
 ## Projects 🚀
 
 ### My Analytics Dashboard (React, Node.js, Firebase, Web App)
@@ -90,17 +101,6 @@ Explored simple and multiple linear regression using socioeconomic and housing v
 **Presentation:** [Google Drive](https://docs.google.com/presentation/d/10pHqg39hyys41gFoEZP5-FHtECXro0XpVAz0e8VJD9M/edit?usp=drive_link)  
 **GitHub Repository:** [California_Housing_Prices](https://github.com/Ateibuzena/California_Housing_Prices)  
 **LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/)
-
----
-
-## Skills & Technologies 🛠️
-**Programming Languages:** 🐍 Python | 💻 C | 🗄️ SQL  
-**Data Analysis:** Pandas | NumPy | Matplotlib | Seaborn  
-**Machine Learning & AI:** Scikit-Learn | TensorFlow | Keras  
-**Big Data:** Apache Spark | PySpark  
-**Database Management:** MySQL  
-**Visualization:** Power BI  
-**Project Management:** Scrum | Trello
 
 ---
 
