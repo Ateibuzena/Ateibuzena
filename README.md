@@ -69,8 +69,6 @@
 
 ---
 
-## 🏆 Projects
-
 <!-- Project Card Template -->
 <!--
 <div align="center">
@@ -206,8 +204,6 @@
 </details>
 
 ---
-
-## 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ana-zubieta/">
