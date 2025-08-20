@@ -5,7 +5,7 @@
 ---
 
 ## About Me 👩🏻‍💻
-Hi! I'm **Ana Zubieta**, a passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI Enthusiast** 🤖.  
+A passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI Enthusiast** 🤖.  
 I love solving complex problems with **Python**, **C**, and modern tools in **data science & AI**.  
 I build scalable solutions, insightful analyses, and interactive data visualizations.
 
