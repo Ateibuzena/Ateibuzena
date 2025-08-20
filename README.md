@@ -2,9 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
 
----
-
-## About Me 👩🏻‍💻
 A passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI Enthusiast** 🤖.  
 I love solving complex problems with **Python**, **C**, and modern tools in **data science & AI**.  
 I build scalable solutions, insightful analyses, and interactive data visualizations.
@@ -61,7 +58,7 @@ Generic solution to extract key info from electric invoices (PDF) regardless of 
 
 ---
 
-### Predicción de precios de viviendas – House Prices: Advanced Regression Techniques
+### House Prices: Advanced Regression Techniques
 **(Kaggle Challenge, Python, Regression, Data Science)**  
 Advanced regression model to predict house prices using Kaggle dataset. Full data analysis, feature selection, modeling, and evaluation for robust predictions.  
 
