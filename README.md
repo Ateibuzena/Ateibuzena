@@ -35,8 +35,13 @@
     <td><img src="https://geps.dev/progress/80?color=87cefa" width="120"/></td>
   </tr>
   <tr>
+    <td><b>📊 Data Analysis</b></td>
+    <td>Pandas, NumPy</td>
+    <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
+  </tr>
+    <tr>
     <td><b>📊 Data Analysis & Visualization</b></td>
-    <td>Pandas, NumPy, Matplotlib, Seaborn</td>
+    <td>Matplotlib, Seaborn, Plotly</td>
     <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
   </tr>
   <tr>
