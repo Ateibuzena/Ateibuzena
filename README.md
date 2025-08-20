@@ -83,6 +83,7 @@
 -->
 
 <details open>
+  <br>
   <summary><span style="font-size:1.3em;"><b>My Analytics Dashboard</b></span> <em>(React, Node.js, Firebase, Web App)</em></summary>
   <ul>
     <li>Interactive web application to visualize, analyze, and monitor social media and digital platform metrics in real time.</li>
@@ -204,16 +205,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-<details>
-  <summary><b>⚡ Fun Fact</b></summary>
-  <blockquote>
-    I love blending <b>data science</b> with <b>real-world applications</b> and <b>making AI understandable</b> for everyone.<br>
-    Let’s turn data into actionable insights! 💡
-  </blockquote>
-</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&flip=true"/>
