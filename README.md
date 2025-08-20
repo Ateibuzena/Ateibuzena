@@ -3,12 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
 
 <p align="center">
-  Developer | Data Scientist | Algorithm & AI Developer
+  Data Scientist | Machine Learning Engineer | Algorithm & AI Developer 
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-zubieta/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ateibuzena)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ena.ateibuz@gmail.com)
 
 A passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI Enthusiast** 🤖. I love solving complex problems with **Python**, **C**, and modern tools in **data science & AI**. I build scalable solutions, insightful analyses, and interactive data visualizations.
 
@@ -121,6 +117,10 @@ Explored simple and multiple linear regression using socioeconomic and housing v
 **LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/)
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-zubieta/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ateibuzena)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ena.ateibuz@gmail.com)
 
 ### ⚡ Fun Fact
 I love blending **data science** with **real-world applications** and **making AI understandable** for everyone. Let’s turn data into actionable insights! 💡
