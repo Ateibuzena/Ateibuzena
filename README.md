@@ -9,23 +9,21 @@ A passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI 
 ## Technical Skills 🛠️
 
 [█████████░] 90%
-**💻 Programming Languages (Python, SQL, C, JavaScript)**  
+*💻 Programming Languages* **(Python, SQL, C, JavaScript)**  
 [████████░░] 80%
-**🧩 Object-Oriented Programming (C++, C#)**  
+*🧩 Object-Oriented Programming* **(C++, C#)**  
 [█████████░] 85%
-**📊 Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn)**  
+*📊 Data Analysis & Visualization* **(Pandas, NumPy, Matplotlib, Seaborn)**  
 [███████░░░] 75%
-**🤖 Machine Learning & AI (Scikit-Learn, TensorFlow, Keras)**  
+*🤖 Machine Learning & AI* **(Scikit-Learn, TensorFlow, Keras)**  
 [████████░░] 80%
-**🗄️ Database Management (MySQL, PostgreSQL, MongoDB)**  
+*🗄️ Database Management* **(MySQL, PostgreSQL, MongoDB)**  
 [██████░░░░] 70%
-**🔥 Big Data Processing (Apache Spark, PySpark)**  
+*🔥 Big Data Processing* **(Apache Spark, PySpark)**  
 [█████████░] 85%
-**🛠️ Work Tools (VS Code, Jupyter, GitHub, Linux, Agile, CRM)**  
+*🛠️ Work Tools* **(VS Code, Jupyter, GitHub, Linux, Agile, CRM)**  
 [█████░░░░░] 65%
-**🌐 Microsoft Platforms (Power Platform, Dynamics, Azure)**  
-
-
+*🌐 Microsoft Platforms* **(Power Platform, Dynamics, Azure)**  
 
 ---
 
