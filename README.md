@@ -24,7 +24,7 @@
 ## 🚀 Technical Skills
 
 <div align="center">
-
+🚀<b>Technical Skills</b>
 <table>
   <tr>
     <td><b>💻 Programming Languages</b></td>
