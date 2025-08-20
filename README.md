@@ -1,129 +1,235 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
-
-<br>
+<!-- Header -->
 <p align="center">
-  Data Scientist | Machine Learning Engineer | Algorithm & AI Developer 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
 </p>
 
-A passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI Enthusiast** 🤖. I love solving complex problems with **Python**, **C**, and modern tools in **data science & AI**. I build scalable solutions, insightful analyses, and interactive data visualizations.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile"/>
+</p>
+
+<p align="center">
+  <b>Data Scientist</b> | <b>Machine Learning Engineer</b> | <b>Algorithm & AI Developer</b>
+</p>
 
 ---
 
-## Technical Skills 🛠️
-
-[█████████░] 90%
-*💻 Programming Languages* **(Python, SQL, C, JavaScript)**  
-[████████░░] 80%
-*🧩 Object-Oriented Programming* **(C++, C#)**  
-[█████████░] 85%
-*📊 Data Analysis & Visualization* **(Pandas, NumPy, Matplotlib, Seaborn)**  
-[███████░░░] 75%
-*🤖 Machine Learning & AI* **(Scikit-Learn, TensorFlow, Keras)**  
-[████████░░] 80%
-*🗄️ Database Management* **(MySQL, PostgreSQL, MongoDB)**  
-[██████░░░░] 70%
-*🔥 Big Data Processing* **(Apache Spark, PySpark)**  
-[█████████░] 85%
-*🛠️ Work Tools* **(VS Code, Jupyter, GitHub, Linux, Agile, CRM)**  
-[█████░░░░░] 65%
-*🌐 Microsoft Platforms* **(Power Platform, Dynamics, Azure)**  
+<p align="center">
+  <em>A passionate <b>Data Scientist</b> 📊, <b>Algorithm Developer</b> 🛠️, and <b>AI Enthusiast</b> 🤖.<br>
+  I love solving complex problems with <b>Python</b>, <b>C</b>, and modern tools in <b>data science & AI</b>.<br>
+  I build scalable solutions, insightful analyses, and interactive data visualizations.</em>
+</p>
 
 ---
 
-## Projects 🚀
+## 🚀 Technical Skills
 
-### My Analytics Dashboard (React, Node.js, Firebase, Web App)
-I developed an interactive web application to visualize, analyze, and monitor social media and digital platform metrics in real time. It enables marketing teams, analysts, and content creators to gain insights into post performance, engagement, and key KPIs, centralizing all information in an intuitive and secure dashboard.  
-
-**Demo video:** [Google Drive](https://drive.google.com/file/d/1fT5XnvHvyCdUob2kzksQYoPZ1Fdemagm/view?usp=drive_link)  
-**GitHub Repository:** [my-analytics-dashboard](https://github.com/Ateibuzena/my-analytics-dashboard)
-
----
-
-### EcoMovilidad – Data Science for Sustainable Transportation
-**(Python, Web App, Data Analysis, Sustainability)**  
-Web application analyzing fuel and electricity consumption in electric, hybrid, and combustion vehicles. Helps users compare vehicle types, estimate travel costs, and make informed decisions promoting sustainable mobility.  
-
-**Demo video:** [Google Drive](https://drive.google.com/file/d/1BgMOB2_9BlIBZNOWH4I5M706zGYCNWG2/view?usp=drive_link)  
-**GitHub Repository:** [Proyecto_EcoMovilidad](https://github.com/Ateibuzena/Proyecto_EcoMovilidad)  
-**LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7178820194625044481/)
-
----
-
-### AI Finance Project – Expense Analysis & Prediction
-**(Hackathon, FinTech, Python, Machine Learning, Time Series)** 🏆  
-Developed a web app for business expense analysis and prediction in the Startup Week 2024 Hackathon. Won 2nd place out of 5, solving a banking sector challenge in 24 hours. Uses ML and time series analysis to predict future expenses with interactive visualizations.  
-
-**Demo video:** [Google Drive](https://drive.google.com/file/d/1fnGG31PxtJdiQ_TRe-qT-050EmfuXeAv/view?usp=sharing)  
-**GitHub Repository:** [Proyecto_AI_Finance](https://github.com/Ateibuzena/Proyecto_AI_Finance)  
-**LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7196088270793936897/)
-
----
-
-### Restaurant Clustering, Recommendation & Rating Prediction
-**(Python, Streamlit, ML, Recommender Systems)**  
-Comprehensive project combining clustering, recommendation systems, and predictive models for restaurants in Madrid and Mexico. Focus: clustering, recommendation, and rating prediction.  
-
-**Demo website:** [Madrid Restaurant Recommender](https://restaurantsrecomendator.streamlit.app/)  
-**Presentation:** [Google Drive](https://docs.google.com/presentation/d/1Meyf7kFybX1uLtiw3Kb0cFU_dWLWny_NCVfvItZ1fWs/edit?usp=drive_link)  
-**GitHub Repository:** [Proyecto_GastronomIA](https://github.com/Ateibuzena/Proyecto_GastronomIA)  
-**LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7158013481684746242/)
-
----
-
-### Electric Invoice Information Extraction
-**(Python, NLP, OCR, PDF Processing, Automation)**  
-Generic solution to extract key info from electric invoices (PDF) regardless of layout. Automates structured data extraction for analysis or accounting integration.  
-
-**GitHub Repository:** [Extraccion_texto_IA](https://github.com/Ateibuzena/Extraccion_texto_IA)  
-**LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7204447451401928704/)
-
----
-
-### House Prices: Advanced Regression Techniques
-**(Kaggle Challenge, Python, Regression, Data Science)**  
-Advanced regression model to predict house prices using Kaggle dataset. Full data analysis, feature selection, modeling, and evaluation for robust predictions.  
-
-**Demo video:** [Google Drive](https://drive.google.com/file/d/1vX4dpHf1IHpTMu-NmAdeYmur39hY9dZD/view?usp=sharing)  
-**Presentation:** [Google Drive](https://drive.google.com/file/d/13AiQFjnqx9FuDH3NJKhKeNFf-IBIDDsg/view?usp=drive_link)  
-**GitHub Repository:** [House_Prices-Advanced_Regression_Techniques](https://github.com/Ateibuzena/House_Prices-Advanced_Regression_Techniques)  
-**LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7265406317832372224/)
-
----
-
-### Sentiment Analysis of Product Reviews
-**(NLP, Python, Sentiment Classification, E-commerce)**  
-NLP-based model to predict product ratings (1-5) from textual reviews. Provides insights into customer satisfaction and market preferences.  
-
-**GitHub Repository:** [nlp-ratings](https://github.com/Ateibuzena/nlp-ratings)
+<table>
+  <tr>
+    <td><b>💻 Programming Languages</b></td>
+    <td>Python, SQL, C, JavaScript</td>
+    <td>
+      <img src="https://progress-bar.dev/90/?title= " width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧩 Object-Oriented Programming</b></td>
+    <td>C++, C#</td>
+    <td>
+      <img src="https://progress-bar.dev/80/?title= " width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📊 Data Analysis & Visualization</b></td>
+    <td>Pandas, NumPy, Matplotlib, Seaborn</td>
+    <td>
+      <img src="https://progress-bar.dev/85/?title= " width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Machine Learning & AI</b></td>
+    <td>Scikit-Learn, TensorFlow, Keras</td>
+    <td>
+      <img src="https://progress-bar.dev/75/?title= " width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database Management</b></td>
+    <td>MySQL, PostgreSQL, MongoDB</td>
+    <td>
+      <img src="https://progress-bar.dev/80/?title= " width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔥 Big Data Processing</b></td>
+    <td>Apache Spark, PySpark</td>
+    <td>
+      <img src="https://progress-bar.dev/70/?title= " width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Work Tools</b></td>
+    <td>VS Code, Jupyter, GitHub, Linux, Agile, CRM</td>
+    <td>
+      <img src="https://progress-bar.dev/85/?title= " width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Microsoft Platforms</b></td>
+    <td>Power Platform, Dynamics, Azure</td>
+    <td>
+      <img src="https://progress-bar.dev/65/?title= " width="120"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### CNN Image Classification – CIFAR-10
-**(Python, TensorFlow, Deep Learning, GPU Acceleration)**  
-Convolutional Neural Network for image classification using CIFAR-10. Covers preprocessing, model construction, training, evaluation, and GPU acceleration.  
+## 🏆 Projects
 
-**GitHub Repository:** [CNN_Image_Classification](https://github.com/Ateibuzena/CNN_Image_Classification)
+<!-- Project Card Template -->
+<!--
+<div align="center">
+  <img src="PROJECT_IMAGE_URL" width="80"/>
+  <h3>PROJECT_TITLE</h3>
+  <b>Stack:</b> STACK <br>
+  PROJECT_DESCRIPTION <br>
+  <a href="DEMO_LINK">Demo</a> | <a href="REPO_LINK">Repository</a> | <a href="LINKEDIN_LINK">LinkedIn</a>
+</div>
+-->
+
+<details open>
+  <summary><b>My Analytics Dashboard</b> <em>(React, Node.js, Firebase, Web App)</em></summary>
+  <ul>
+    <li>Interactive web application to visualize, analyze, and monitor social media and digital platform metrics in real time.</li>
+    <li>Centralizes all information in an intuitive and secure dashboard.</li>
+    <li>
+      <a href="https://drive.google.com/file/d/1fT5XnvHvyCdUob2kzksQYoPZ1Fdemagm/view?usp=drive_link">Demo video</a> |
+      <a href="https://github.com/Ateibuzena/my-analytics-dashboard">GitHub Repository</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>EcoMovilidad – Data Science for Sustainable Transportation</b> <em>(Python, Web App, Data Analysis, Sustainability)</em></summary>
+  <ul>
+    <li>Web application analyzing fuel and electricity consumption in electric, hybrid, and combustion vehicles.</li>
+    <li>Helps users compare vehicle types, estimate travel costs, and make informed decisions promoting sustainable mobility.</li>
+    <li>
+      <a href="https://drive.google.com/file/d/1BgMOB2_9BlIBZNOWH4I5M706zGYCNWG2/view?usp=drive_link">Demo video</a> |
+      <a href="https://github.com/Ateibuzena/Proyecto_EcoMovilidad">GitHub Repository</a> |
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7178820194625044481/">LinkedIn Post</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>AI Finance Project – Expense Analysis & Prediction</b> <em>(Hackathon, FinTech, Python, Machine Learning, Time Series)</em> 🏆</summary>
+  <ul>
+    <li>Developed a web app for business expense analysis and prediction in the Startup Week 2024 Hackathon (2nd place).</li>
+    <li>Uses ML and time series analysis to predict future expenses with interactive visualizations.</li>
+    <li>
+      <a href="https://drive.google.com/file/d/1fnGG31PxtJdiQ_TRe-qT-050EmfuXeAv/view?usp=sharing">Demo video</a> |
+      <a href="https://github.com/Ateibuzena/Proyecto_AI_Finance">GitHub Repository</a> |
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196088270793936897/">LinkedIn Post</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Restaurant Clustering, Recommendation & Rating Prediction</b> <em>(Python, Streamlit, ML, Recommender Systems)</em></summary>
+  <ul>
+    <li>Comprehensive project combining clustering, recommendation systems, and predictive models for restaurants in Madrid and Mexico.</li>
+    <li>
+      <a href="https://restaurantsrecomendator.streamlit.app/">Demo website</a> |
+      <a href="https://docs.google.com/presentation/d/1Meyf7kFybX1uLtiw3Kb0cFU_dWLWny_NCVfvItZ1fWs/edit?usp=drive_link">Presentation</a> |
+      <a href="https://github.com/Ateibuzena/Proyecto_GastronomIA">GitHub Repository</a> |
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7158013481684746242/">LinkedIn Post</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Electric Invoice Information Extraction</b> <em>(Python, NLP, OCR, PDF Processing, Automation)</em></summary>
+  <ul>
+    <li>Generic solution to extract key info from electric invoices (PDF) regardless of layout.</li>
+    <li>
+      <a href="https://github.com/Ateibuzena/Extraccion_texto_IA">GitHub Repository</a> |
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7204447451401928704/">LinkedIn Post</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>House Prices: Advanced Regression Techniques</b> <em>(Kaggle Challenge, Python, Regression, Data Science)</em></summary>
+  <ul>
+    <li>Advanced regression model to predict house prices using Kaggle dataset.</li>
+    <li>
+      <a href="https://drive.google.com/file/d/1vX4dpHf1IHpTMu-NmAdeYmur39hY9dZD/view?usp=sharing">Demo video</a> |
+      <a href="https://drive.google.com/file/d/13AiQFjnqx9FuDH3NJKhKeNFf-IBIDDsg/view?usp=drive_link">Presentation</a> |
+      <a href="https://github.com/Ateibuzena/House_Prices-Advanced_Regression_Techniques">GitHub Repository</a> |
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7265406317832372224/">LinkedIn Post</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Sentiment Analysis of Product Reviews</b> <em>(NLP, Python, Sentiment Classification, E-commerce)</em></summary>
+  <ul>
+    <li>NLP-based model to predict product ratings (1-5) from textual reviews.</li>
+    <li>
+      <a href="https://github.com/Ateibuzena/nlp-ratings">GitHub Repository</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>CNN Image Classification – CIFAR-10</b> <em>(Python, TensorFlow, Deep Learning, GPU Acceleration)</em></summary>
+  <ul>
+    <li>Convolutional Neural Network for image classification using CIFAR-10.</li>
+    <li>
+      <a href="https://github.com/Ateibuzena/CNN_Image_Classification">GitHub Repository</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Linear Regression Project – 42 Málaga Artificial Intelligence League</b> <em>(Python, Linear Regression, Machine Learning, Data Analysis)</em></summary>
+  <ul>
+    <li>Explored simple and multiple linear regression using socioeconomic and housing variables.</li>
+    <li>
+      <a href="https://docs.google.com/presentation/d/10pHqg39hyys41gFoEZP5-FHtECXro0XpVAz0e8VJD9M/edit?usp=drive_link">Presentation</a> |
+      <a href="https://github.com/Ateibuzena/California_Housing_Prices">GitHub Repository</a> |
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/">LinkedIn Post</a>
+    </li>
+  </ul>
+</details>
 
 ---
 
-### Linear Regression Project – 42 Málaga Artificial Intelligence League
-**(Python, Linear Regression, Machine Learning, Data Analysis)**  
-Explored simple and multiple linear regression using socioeconomic and housing variables. Comparative evaluation and metrics analysis included.  
+## 📫 Connect with me
 
-**Presentation:** [Google Drive](https://docs.google.com/presentation/d/10pHqg39hyys41gFoEZP5-FHtECXro0XpVAz0e8VJD9M/edit?usp=drive_link)  
-**GitHub Repository:** [California_Housing_Prices](https://github.com/Ateibuzena/California_Housing_Prices)  
-**LinkedIn Post:** [Check it out](https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-zubieta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ateibuzena">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ena.ateibuz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-zubieta/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ateibuzena)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ena.ateibuz@gmail.com)
+<details>
+  <summary><b>⚡ Fun Fact</b></summary>
+  <blockquote>
+    I love blending <b>data science</b> with <b>real-world applications</b> and <b>making AI understandable</b> for everyone.<br>
+    Let’s turn data into actionable insights! 💡
+  </blockquote>
+</details>
 
-### ⚡ Fun Fact
-I love blending **data science** with **real-world applications** and **making AI understandable** for everyone. Let’s turn data into actionable insights! 💡
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&flip=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&flip=true"/>
+</p>
