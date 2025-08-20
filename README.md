@@ -93,9 +93,11 @@
       <a href="https://github.com/Ateibuzena/my-analytics-dashboard">GitHub Repository</a>
     </li>
   </ul>
+  <br>
 </details>
 
 <details>
+  <br>
   <summary><span style="font-size:1.3em;"><b>EcoMovilidad – Data Science for Sustainable Transportation</b></span> <em>(Python, Web App, Data Analysis, Sustainability)</em></summary>
   <ul>
     <li>Web application analyzing fuel and electricity consumption in electric, hybrid, and combustion vehicles.</li>
@@ -106,9 +108,11 @@
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7178820194625044481/">LinkedIn Post</a>
     </li>
   </ul>
+  <br>
 </details>
 
 <details>
+  <br>
   <summary><span style="font-size:1.3em;"><b>AI Finance Project – Expense Analysis & Prediction</b></span> <em>(Hackathon, FinTech, Python, Machine Learning, Time Series)</em> 🏆</summary>
   <ul>
     <li>Developed a web app for business expense analysis and prediction in the Startup Week 2024 Hackathon (2nd place).</li>
@@ -119,9 +123,11 @@
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196088270793936897/">LinkedIn Post</a>
     </li>
   </ul>
+  <br>
 </details>
 
 <details>
+  <br>
   <summary><span style="font-size:1.3em;"><b>Restaurant Clustering, Recommendation & Rating Prediction</b></span> <em>(Python, Streamlit, ML, Recommender Systems)</em></summary>
   <ul>
     <li>Comprehensive project combining clustering, recommendation systems, and predictive models for restaurants in Madrid and Mexico.</li>
@@ -132,9 +138,11 @@
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7158013481684746242/">LinkedIn Post</a>
     </li>
   </ul>
+  <br>
 </details>
 
 <details>
+  <br>
   <summary><span style="font-size:1.3em;"><b>Electric Invoice Information Extraction</b></span> <em>(Python, NLP, OCR, PDF Processing, Automation)</em></summary>
   <ul>
     <li>Generic solution to extract key info from electric invoices (PDF) regardless of layout.</li>
@@ -143,9 +151,11 @@
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7204447451401928704/">LinkedIn Post</a>
     </li>
   </ul>
+  <br>
 </details>
 
 <details>
+  <br>
   <summary><span style="font-size:1.3em;"><b>House Prices: Advanced Regression Techniques</b></span> <em>(Kaggle Challenge, Python, Regression, Data Science)</em></summary>
   <ul>
     <li>Advanced regression model to predict house prices using Kaggle dataset.</li>
@@ -156,6 +166,7 @@
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7265406317832372224/">LinkedIn Post</a>
     </li>
   </ul>
+  <br>
 </details>
 
 <details>
@@ -169,6 +180,7 @@
 </details>
 
 <details>
+  <br>
   <summary><span style="font-size:1.3em;"><b>CNN Image Classification – CIFAR-10</b></span> <em>(Python, TensorFlow, Deep Learning, GPU Acceleration)</em></summary>
   <ul>
     <li>Convolutional Neural Network for image classification using CIFAR-10.</li>
@@ -176,9 +188,11 @@
       <a href="https://github.com/Ateibuzena/CNN_Image_Classification">GitHub Repository</a>
     </li>
   </ul>
+  <br>
 </details>
 
 <details>
+  <br>
   <summary><span style="font-size:1.3em;"><b>Linear Regression Project – 42 Málaga Artificial Intelligence League</b></span> <em>(Python, Linear Regression, Machine Learning, Data Analysis)</em></summary>
   <ul>
     <li>Explored simple and multiple linear regression using socioeconomic and housing variables.</li>
@@ -188,6 +202,7 @@
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/">LinkedIn Post</a>
     </li>
   </ul>
+  <br>
 </details>
 
 ---
