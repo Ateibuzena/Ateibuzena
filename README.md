@@ -1,8 +1,6 @@
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header"></a>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
 
-<a href="#" onclick="return false;">![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)</a>
-
-<a href="#" onclick="return false;"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=footer"></a>
 
 ## About me 👩🏻‍💻
 
