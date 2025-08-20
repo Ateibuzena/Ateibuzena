@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=140&section=header"/>
 </p>
 
 <p align="center">
@@ -218,5 +218,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&flip=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=140&section=footer&flip=true"/>
 </p>
