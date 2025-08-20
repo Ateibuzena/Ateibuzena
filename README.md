@@ -2,10 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
 
-                        Developer | Data Scientist | Algorithm & AI Developer
+                          Developer | Data Scientist | Algorithm & AI Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ana--zubieta-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-zubieta)  
-[![Gmail](https://img.shields.io/badge/Gmail-ana.zubieta@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.zubieta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-zubieta/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ateibuzena)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ena.ateibuz@gmail.com)
 
 A passionate **Data Scientist** 📊, **Algorithm Developer** 🛠️, and **AI Enthusiast** 🤖. I love solving complex problems with **Python**, **C**, and modern tools in **data science & AI**. I build scalable solutions, insightful analyses, and interactive data visualizations.
 
