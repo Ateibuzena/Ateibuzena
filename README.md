@@ -26,42 +26,42 @@
   <tr>
     <td><b>💻 Programming Languages</b></td>
     <td>Python, SQL, C, JavaScript</td>
-    <td><img src="https://geps.dev/progress/90" width="120"/></td>
+    <td><img src="https://geps.dev/progress/90?color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>🧩 Object-Oriented Programming</b></td>
     <td>C++, C#</td>
-    <td><img src="https://geps.dev/progress/80" width="120"/></td>
+    <td><img src="https://geps.dev/progress/80?color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>📊 Data Analysis & Visualization</b></td>
     <td>Pandas, NumPy, Matplotlib, Seaborn</td>
-    <td><img src="https://geps.dev/progress/85" width="120"/></td>
+    <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>🤖 Machine Learning & AI</b></td>
     <td>Scikit-Learn, TensorFlow, Keras</td>
-    <td><img src="https://geps.dev/progress/75" width="120"/></td>
+    <td><img src="https://geps.dev/progress/75?color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>🗄️ Database Management</b></td>
     <td>MySQL, PostgreSQL, MongoDB</td>
-    <td><img src="https://geps.dev/progress/80" width="120"/></td>
+    <td><img src="https://geps.dev/progress/80?color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>🔥 Big Data Processing</b></td>
     <td>Apache Spark, PySpark</td>
-    <td><img src="https://geps.dev/progress/70" width="120"/></td>
+    <td><img src="https://geps.dev/progress/70?color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>🛠️ Work Tools</b></td>
     <td>VS Code, Jupyter, GitHub, Linux, Agile, CRM</td>
-    <td><img src="https://geps.dev/progress/85" width="120"/></td>
+    <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>🌐 Microsoft Platforms</b></td>
     <td>Power Platform, Dynamics, Azure</td>
-    <td><img src="https://geps.dev/progress/65" width="120"/></td>
+    <td><img src="https://geps.dev/progress/65?color=87cefa" width="120"/></td>
   </tr>
 </table>
 
