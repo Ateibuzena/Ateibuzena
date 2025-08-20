@@ -14,8 +14,7 @@
 ---
 
 <p align="center">
-  <em>A passionate <b>Data Scientist</b> 📊, <b>Algorithm Developer</b> 🛠️, and <b>AI Enthusiast</b> 🤖.<br>
-  I love solving complex problems with <b>Python</b>, <b>C</b>, and modern tools in <b>data science & AI</b>.<br>
+  <em>I love solving complex problems with <b>Python</b>, <b>C</b>, and modern tools in <b>data science & AI</b>.<br>
   I build scalable solutions, insightful analyses, and interactive data visualizations.</em>
 </p>
 
