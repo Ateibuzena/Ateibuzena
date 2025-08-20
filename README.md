@@ -26,8 +26,9 @@
   <tr>
     <td><b>💻 Programming Languages</b></td>
     <td>Python, SQL, C, JavaScript</td>
-    <td><img ![Progress Bar](https://progress-bar.dev/90/?title=Programming+Languages&color=87cefa) width="120"/></td>
+    <td><img src="https://progress-bar.dev/90/?title=Programming+Languages&color=87cefa" width="120"/></td>
   </tr>
+
   <tr>
     <td><b>🧩 Object-Oriented Programming</b></td>
     <td>C++, C#</td>
