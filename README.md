@@ -1,8 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=120&section=header)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
 
-## 👩🏻‍💻 About Me
-
 Hi! I'm **Ana Zubieta**, a passionate **Data Scientist**, **Algorithm Developer**, and **AI Enthusiast**.  
 I love solving complex problems with **Python**, **C**, and modern tools in **Data Science & AI**.  
 
