@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub+Profile)
 
+🌟 Data Scientist | Python, ML & Big Data | Passionate about building smart solutions
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-zubieta/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ana_zubieta)
 
