@@ -32,7 +32,7 @@
   <tr>
     <td><b>🧩 Object-Oriented Programming</b></td>
     <td>C++, C#</td>
-    <td><img src="https://geps.dev/progress/80?color=87cefa" width="120"/></td>
+    <td><img src="https://geps.dev/progress/80&color=87cefa" width="120"/></td>
   </tr>
   <tr>
     <td><b>📊 Data Analysis & Visualization</b></td>
