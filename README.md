@@ -147,7 +147,7 @@
 
 <details>
   <br>
-  <summary><span style="font-size:1.3em;"><b>Electric Invoice Information Extraction</b></span> <em>(Python, NLP, OCR, PDF Processing, Automation)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>NLP - Electric Invoice Information Extraction</b></span> <em>(Python, NLP, OCR, PDF Processing, Automation)</em></summary>
   <ul>
     <li>Generic solution to extract key info from electric invoices (PDF) regardless of layout.</li>
     <li>
@@ -174,7 +174,7 @@
 </details>
 
 <details>
-  <summary><span style="font-size:1.3em;"><b>Sentiment Analysis of Product Reviews</b></span> <em>(NLP, Python, Sentiment Classification, E-commerce)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>NLP - Sentiment Analysis of Product Reviews</b></span> <em>(NLP, Python, Sentiment Classification, E-commerce)</em></summary>
   <ul>
     <li>NLP-based model to predict product ratings (1-5) from textual reviews.</li>
     <li>
@@ -197,7 +197,7 @@
 
 <details>
   <br>
-  <summary><span style="font-size:1.3em;"><b>Linear Regression Project – 42 Málaga Artificial Intelligence League</b></span> <em>(Python, Linear Regression, Machine Learning, Data Analysis)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>Linear Regression – 42 Málaga Artificial Intelligence League</b></span> <em>(Python, Linear Regression, Machine Learning, Data Analysis)</em></summary>
   <ul>
     <li>Explored simple and multiple linear regression using socioeconomic and housing variables.</li>
     <li>
