@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Data Scientist</b> | <b>Machine Learning Engineer</b> | <b>Algorithm & AI Developer</b>
+  <b>Data Scientist</b> | <b>Machine Learning & AI Engineer</b> | <b>Algorithm Developer</b>
 </p>
 
 ---
