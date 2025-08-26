@@ -117,7 +117,7 @@
 
 <details>
   <br>
-  <summary><span style="font-size:1.3em;"><b>AI Finance Project – Expense Analysis & Prediction</b></span> <em>(Hackathon, FinTech, Python, Machine Learning, Time Series)</em> 🏆</summary>
+  <summary><span style="font-size:1.3em;"><b>AI Finance – Expense Analysis & Prediction</b></span> <em>(Hackathon, FinTech, Python, Machine Learning, Time Series)</em> 🏆</summary>
   <ul>
     <li>Developed a web app for business expense analysis and prediction in the Startup Week 2024 Hackathon (2nd place).</li>
     <li>Uses ML and time series analysis to predict future expenses with interactive visualizations.</li>
