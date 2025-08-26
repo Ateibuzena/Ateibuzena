@@ -132,7 +132,7 @@
 
 <details>
   <br>
-  <summary><span style="font-size:1.3em;"><b>Restaurant Clustering, Recommendation & Rating Prediction</b></span> <em>(Python, Streamlit, ML, Recommender Systems)</em></summary>
+  <summary><span style="font-size:1.3em;"><b>GatronomIA - Restaurant Clustering, Recommendation & Rating Prediction</b></span> <em>(Python, Streamlit, ML, Recommender Systems)</em></summary>
   <ul>
     <li>Comprehensive project combining clustering, recommendation systems, and predictive models for restaurants in Madrid and Mexico.</li>
     <li>
