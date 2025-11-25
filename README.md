@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td><b>💻 Programming Languages</b></td>
-    <td>Python, SQL, C, JavaScript, Node, React</td>
+    <td>Python, SQL, C, JavaScript, Node, React, TypeScript</td>
     <td><img src="https://geps.dev/progress/90?color=87cefa" width="120"/></td>
   </tr>
 
