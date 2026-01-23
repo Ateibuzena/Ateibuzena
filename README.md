@@ -8,14 +8,13 @@
 </p>
 
 <p align="center">
-  <b>Data Scientist</b> | <b>Machine Learning & AI Engineer</b> | <b>Algorithm Developer</b>
+  <b>Software Engineer</b> | <b>Data Science & Machine Learning</b> | <b>Algorithm Developer</b>
 </p>
 
 ---
 
 <p align="center">
-  <em>I love solving complex problems with <b>Python</b>, <b>C</b>, and modern tools in <b>data science & AI</b>.<br>
-  I build scalable solutions, insightful analyses, and interactive data visualizations.</em>
+  <em>I build AI and data-driven solutions, blending modeling, automation, and backend systems expertise.</em>
 </p>
 
 ---
