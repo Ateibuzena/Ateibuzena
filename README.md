@@ -1,6 +1,6 @@
-<!-- Header -->
+<!-- Header Contributions -->
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/Ateibuzena?chart=3dbar&weeks=30&flatten=3&animation=wave&format=svg&colors=00f5ff,ff00ff,00ff88,ffffff&gap=3&scale=20" />
+  <img src="https://github.pumbas.net/api/contributions/Ateibuzena?colour=0099ff&dotColour=00f5ff" alt="Ateibuzena's Contributions"/>
 </p>
 
 <p align="center">
