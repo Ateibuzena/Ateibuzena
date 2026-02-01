@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ana%20Zubieta&fontSize=80&fontColor=fff&animation=fadeIn"/>
+  <img src="https://ssr-contributions-svg.vercel.app/_/Ateibuzena?chart=3dbar&weeks=30&flatten=3&animation=wave&format=svg&colors=00f5ff,ff00ff,00ff88,ffffff&gap=3&scale=20" />
 </p>
 
 <p align="center">
