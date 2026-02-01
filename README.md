@@ -1,227 +1,293 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ana%20Zubieta&fontSize=80&fontColor=fff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ana+Zubieta;Welcome+to+my+GitHub"/>
+I build <b>end-to-end data-driven applications.</b><br/></p>
+<p align="center">From data pipelines and ML models to scalable backend APIs and user interfaces.<br/></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+<p align="center">
+✨ Design and deploy <b>production-ready ML systems</b><br/>
+🚀 Build <b>scalable microservices architectures</b> with TypeScript/Python<br/>
+📊 Transform raw data into <b>actionable insights</b> and automated solutions<br/>
+⚡ Optimize performance from <b>database queries to algorithm complexity</b>
+</p>
+
+<h2 align="center">🛠️</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,cpp,c,css,html&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Software Engineer</b> | <b>Data Science & Machine Learning</b> | <b>Algorithm Developer</b>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,tensorflow,pytorch,sklearn,react,nestjs,express,docker,nginx,linux,github,vscode&theme=dark" />
 </p>
-
----
-
-<p align="center">
-  <em>I build AI and data-driven solutions, blending modeling, automation, and backend systems expertise.</em>
-</p>
-
----
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><b>💻 Programming Languages</b></td>
-    <td>Python, SQL, C, JavaScript, Node, React, TypeScript, PHP</td>
-    <td><img src="https://geps.dev/progress/90?color=87cefa" width="120"/></td>
-  </tr>
+**Data Science & ML**: Python • Pandas • NumPy • Scikit-Learn • TensorFlow • Keras • XGBoost • PySpark  
+**Backend & APIs**: TypeScript • NestJS • Node.js • Express • Fastify • RESTful APIs • WebSockets  
+**Infrastructure**: Docker • Microservices • Nginx • Linux/UNIX  
+**Databases**: MySQL • PostgreSQL • MongoDB • Firebase  
+**Visualization**: Plotly • Streamlit • Matplotlib • Seaborn • Power BI
 
-  <tr>
-    <td><b>🧩 Object-Oriented Programming</b></td>
-    <td>C++, C#</td>
-    <td><img src="https://geps.dev/progress/80?color=87cefa" width="120"/></td>
-  </tr>
-  <tr>
-    <td><b>📊 Data Analysis</b></td>
-    <td>Pandas, NumPy</td>
-    <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
-  </tr>
-    <tr>
-    <td><b>📊 Data Visualization</b></td>
-    <td>Matplotlib, Seaborn, Plotly</td>
-    <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
-  </tr>
-  <tr>
-    <td><b>🤖 Machine Learning & AI</b></td>
-    <td>Scikit-Learn, TensorFlow, Keras</td>
-    <td><img src="https://geps.dev/progress/75?color=87cefa" width="120"/></td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database Management</b></td>
-    <td>MySQL, PostgreSQL, MongoDB</td>
-    <td><img src="https://geps.dev/progress/80?color=87cefa" width="120"/></td>
-  </tr>
-  <tr>
-    <td><b>🔥 Big Data Processing</b></td>
-    <td>Apache Spark, PySpark</td>
-    <td><img src="https://geps.dev/progress/70?color=87cefa" width="120"/></td>
-  </tr>
-  <tr>
-    <td><b>🛠️ Work Tools</b></td>
-    <td>VS Code, Jupyter, GitHub, Linux, Agile, CRM</td>
-    <td><img src="https://geps.dev/progress/85?color=87cefa" width="120"/></td>
-  </tr>
-  <tr>
-    <td><b>🌐 Microsoft Platforms</b></td>
-    <td>Power Platform, Dynamics, Azure</td>
-    <td><img src="https://geps.dev/progress/65?color=87cefa" width="120"/></td>
-  </tr>
+</div>
+
+<div align="center">
+
+<h2>💼</h2>
+
+<details>
+<summary>
+<b>🏆 My Analytics Dashboard — Real-Time Social Media Analytics</b><br/>
+Automated data pipeline with real-time visualization and multi-platform API integration
+</summary>
+
+<br/>
+
+**Tech Stack**: Node.js React Firebase N8N REST APIs Chart.js
+
+📊 Aggregates metrics from 5+ social media platforms
+
+🔄 Automated ETL pipeline processing
+
+📈 Real-time dashboards tracking *15+ KPIs*
+
+🔥 Firebase real-time synchronization
+
+📱 Responsive React interface
+
+✅ Centralized analytics
+
+✅ Actionable insights
+
+<a href="https://drive.google.com/file/d/1fT5XnvHvyCdUob2kzksQYoPZ1Fdemagm/view?usp=drive_link">Demo</a> •
+<a href="https://github.com/Ateibuzena/my-analytics-dashboard">GitHub</a>
+
+</details>
+
+<br/>
+
+<details>
+<summary>
+<b>🏆 ft_transcendence — Microservices Gaming Platform</b><br/>Enterprise-grade full-stack app with containerized microservices
+</summary>
+
+<br/>
+
+**Tech Stack**: TypeScript NestJS Docker PostgreSQL WebSockets React Nginx
+
+
+🐳 5 containerized microservices
+
+🔐 JWT + OAuth authentication
+
+⚡ Real-time multiplayer with WebSockets
+
+🗄️ 1000+ concurrent connections
+
+🎨 React + TS frontend
+
+<a href="https://github.com/Ateibuzena/ft_transcendence">GitHub</a>
+
+</details>
+
+<br/>
+
+<details>
+<summary>
+<b>🏆 EcoMovilidad — Transportation Analytics Platform</b><br/>Data science + interactive analytics for EV adoption
+</summary>
+
+<br/>
+
+**Tech Stack**: Python Pandas TensorFlow Plotly Streamlit
+
+
+📊 Fuel consumption analysis
+
+🔮 ARIMA + LSTM forecasting
+
+💰 500+ route simulations
+
+📈 10K+ data points dashboard
+
+<a href="https://github.com/Ateibuzena/Proyecto_EcoMovilidad">GitHub</a>
+
+</details>
+
+<br/>
+
+<details>
+<summary>
+<b>🏆 GastronomIA — AI Restaurant Recommendation Engine</b><br/>Production ML system deployed on Streamlit Cloud
+</summary>
+
+<br/>
+
+**Tech Stack**: Python Scikit-Learn PCA Streamlit
+
+
+🤖 2,500+ restaurants clustered
+
+🎯 Personalized recommendations
+
+⚡ <200ms predictions
+
+📍 PCA visualization
+
+<a href="https://github.com/Ateibuzena/Proyecto_GastronomIA">GitHub</a>
+
+</details>
+
+</div>
+
+<h2 align="center">🎓</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /><br/>
+<b>Data Science & AI Bootcamp</b><br/>
+<em>Hack a Boss</em><br/>
+<sub>Machine Learning • Deep Learning<br/>Python • SQL • PySpark</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /><br/>
+<b>Software Engineering</b><br/>
+<em>42 Málaga</em><br/>
+<sub>Systems Programming • Algorithms<br/>C/C++ • TypeScript • Architecture</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /><br/>
+<b>Mathematics & Engineering</b><br/>
+<em>UIB - Double Degree</em><br/>
+<sub>Linear Algebra • Statistics<br/>Networks • Calculus</sub>
+</td>
+</tr>
 </table>
 
-</div>
 
----
+<h2 align="center">Additional Technical Projects</h2>
 
-<!-- Project Card Template -->
-<!--
 <div align="center">
-  <img src="PROJECT_IMAGE_URL" width="80"/>
-  <h3>PROJECT_TITLE</h3>
-  <b>Stack:</b> STACK <br>
-  PROJECT_DESCRIPTION <br>
-  <a href="DEMO_LINK">Demo</a> | <a href="REPO_LINK">Repository</a> | <a href="LINKEDIN_LINK">LinkedIn</a>
+
+<details>
+<summary>
+<b>🏷️ House Prices - Advanced Regression</b> — Kaggle Competition
+</summary>
+
+<br/>
+
+Ensemble model achieving <b>Top 15% leaderboard</b> position  
+Feature engineering with <b>80+ derived features</b> from raw data  
+
+[Demo](https://drive.google.com/file/d/1vX4dpHf1IHpTMu-NmAdeYmur39hY9dZD/view?usp=sharing) •
+[GitHub](https://github.com/Ateibuzena/House_Prices-Advanced_Regression_Techniques)
+
+</details>
+
+<br/>
+
+<details>
+<summary>
+<b>🧾 NLP Invoice Extraction</b> — Automated Information Extraction
+</summary>
+
+<br/>
+
+OCR + NLP pipeline processing <b>1000+ PDF invoices</b>  
+<b>95% extraction accuracy</b> across different invoice formats  
+
+[GitHub](https://github.com/Ateibuzena/Extraccion_texto_IA)
+
+</details>
+
+<br/>
+
+<details>
+<summary>
+<b>🌐 IRC Server</b> — Network Programming (C++)
+</summary>
+
+<br/>
+
+TCP/IP server handling <b>100+ concurrent connections</b>  
+Complete IRC protocol implementation with <b>20+ commands</b>  
+
+[GitHub](https://github.com/Ateibuzena/irc)
+
+</details>
+
+<br/>
+
+<details>
+<summary>
+<b>🐳 Inception</b> — Infrastructure as Code
+</summary>
+
+<br/>
+
+Multi-container application with <b>3 microservices</b> (Nginx, WordPress, MariaDB)  
+Automated deployment with Docker Compose  
+
+[GitHub](https://github.com/Ateibuzena/inception)
+
+</details>
+
 </div>
--->
 
-<details open>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>My Analytics Dashboard</b></span> <em>(React, Node.js, Firebase, Web App)</em></summary>
-  <ul>
-    <li>Interactive web application to visualize, analyze, and monitor social media and digital platform metrics in real time.</li>
-    <li>Centralizes all information in an intuitive and secure dashboard.</li>
-    <li>
-      <a href="https://drive.google.com/file/d/1fT5XnvHvyCdUob2kzksQYoPZ1Fdemagm/view?usp=drive_link">Demo video</a> |
-      <a href="https://github.com/Ateibuzena/my-analytics-dashboard">GitHub Repository</a>
-    </li>
-  </ul>
-  <br>
-</details>
 
-<details>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>EcoMovilidad – Data Science for Sustainable Transportation</b></span> <em>(Python, Web App, Data Analysis, Sustainability)</em></summary>
-  <ul>
-    <li>Web application analyzing fuel and electricity consumption in electric, hybrid, and combustion vehicles.</li>
-    <li>Helps users compare vehicle types, estimate travel costs, and make informed decisions promoting sustainable mobility.</li>
-    <li>
-      <a href="https://drive.google.com/file/d/1BgMOB2_9BlIBZNOWH4I5M706zGYCNWG2/view?usp=drive_link">Demo video</a> |
-      <a href="https://github.com/Ateibuzena/Proyecto_EcoMovilidad">GitHub Repository</a> |
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7178820194625044481/">LinkedIn Post</a>
-    </li>
-  </ul>
-  <br>
-</details>
+<h2 align="center">🏆</h2>
 
-<details>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>AI Finance – Expense Analysis & Prediction</b></span> <em>(Hackathon, FinTech, Python, Machine Learning, Time Series)</em> 🏆</summary>
-  <ul>
-    <li>Developed a web app for business expense analysis and prediction in the Startup Week 2024 Hackathon (2nd place).</li>
-    <li>Uses ML and time series analysis to predict future expenses with interactive visualizations.</li>
-    <li>
-      <a href="https://drive.google.com/file/d/1fnGG31PxtJdiQ_TRe-qT-050EmfuXeAv/view?usp=sharing">Demo video</a> |
-      <a href="https://github.com/Ateibuzena/Proyecto_AI_Finance">GitHub Repository</a> |
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196088270793936897/">LinkedIn Post</a>
-    </li>
-  </ul>
-  <br>
-</details>
+<div align="center">
 
-<details>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>GatronomIA - Restaurant Clustering, Recommendation & Rating Prediction</b></span> <em>(Python, Streamlit, ML, Recommender Systems)</em></summary>
-  <ul>
-    <li>Comprehensive project combining clustering, recommendation systems, and predictive models for restaurants in Madrid and Mexico.</li>
-    <li>
-      <a href="https://restaurantsrecomendator.streamlit.app/">Demo website</a> |
-      <a href="https://docs.google.com/presentation/d/1Meyf7kFybX1uLtiw3Kb0cFU_dWLWny_NCVfvItZ1fWs/edit?usp=drive_link">Presentation</a> |
-      <a href="https://github.com/Ateibuzena/Proyecto_GastronomIA">GitHub Repository</a> |
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7158013481684746242/">LinkedIn Post</a>
-    </li>
-  </ul>
-  <br>
-</details>
+| Achievement | Impact |
+|------------|--------|
+| 🥈 **Hackathon Winner** (2nd Place) | Built FinTech ML solution in 48 hours • Startup Week 2024 |
+| 🥉 **Ideatón Winner** (3rd Place) | Museum tech innovation • Cross-functional team leadership |
+| 💻 **50+ GitHub Repositories** | Open source contributions and personal projects |
 
-<details>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>NLP - Electric Invoice Information Extraction</b></span> <em>(Python, NLP, OCR, PDF Processing, Automation)</em></summary>
-  <ul>
-    <li>Generic solution to extract key info from electric invoices (PDF) regardless of layout.</li>
-    <li>
-      <a href="https://github.com/Ateibuzena/Extraccion_texto_IA">GitHub Repository</a> |
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7204447451401928704/">LinkedIn Post</a>
-    </li>
-  </ul>
-  <br>
-</details>
-
-<details>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>House Prices: Advanced Regression Techniques</b></span> <em>(Kaggle Challenge, Python, Regression, Data Science)</em></summary>
-  <ul>
-    <li>Advanced regression model to predict house prices using Kaggle dataset.</li>
-    <li>
-      <a href="https://drive.google.com/file/d/1vX4dpHf1IHpTMu-NmAdeYmur39hY9dZD/view?usp=sharing">Demo video</a> |
-      <a href="https://drive.google.com/file/d/13AiQFjnqx9FuDH3NJKhKeNFf-IBIDDsg/view?usp=drive_link">Presentation</a> |
-      <a href="https://github.com/Ateibuzena/House_Prices-Advanced_Regression_Techniques">GitHub Repository</a> |
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7265406317832372224/">LinkedIn Post</a>
-    </li>
-  </ul>
-  <br>
-</details>
-
-<details>
-  <summary><span style="font-size:1.3em;"><b>NLP - Sentiment Analysis of Product Reviews</b></span> <em>(NLP, Python, Sentiment Classification, E-commerce)</em></summary>
-  <ul>
-    <li>NLP-based model to predict product ratings (1-5) from textual reviews.</li>
-    <li>
-      <a href="https://github.com/Ateibuzena/nlp-ratings">GitHub Repository</a>
-    </li>
-  </ul>
-</details>
-
-<details>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>CNN Image Classification – CIFAR-10</b></span> <em>(Python, TensorFlow, Deep Learning, GPU Acceleration)</em></summary>
-  <ul>
-    <li>Convolutional Neural Network for image classification using CIFAR-10.</li>
-    <li>
-      <a href="https://github.com/Ateibuzena/CNN_Image_Classification">GitHub Repository</a>
-    </li>
-  </ul>
-  <br>
-</details>
-
-<details>
-  <br>
-  <summary><span style="font-size:1.3em;"><b>Linear Regression – 42 Málaga Artificial Intelligence League</b></span> <em>(Python, Linear Regression, Machine Learning, Data Analysis)</em></summary>
-  <ul>
-    <li>Explored simple and multiple linear regression using socioeconomic and housing variables.</li>
-    <li>
-      <a href="https://docs.google.com/presentation/d/10pHqg39hyys41gFoEZP5-FHtECXro0XpVAz0e8VJD9M/edit?usp=drive_link">Presentation</a> |
-      <a href="https://github.com/Ateibuzena/California_Housing_Prices">GitHub Repository</a> |
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196571848011087872/">LinkedIn Post</a>
-    </li>
-  </ul>
-  <br>
-</details>
+</div>
 
 ---
+
+<h2 align="center">✍️ Technical Content & Contributions</h2>
+
+<div align="center">
+
+📝 **LinkedIn Technical Posts**: Sharing insights on ML deployment, backend architecture, and data engineering  
+🎤 **42 Málaga AI League**: Presented linear regression techniques and practical applications  
+📊 **Open Source**: Active contributor to data science and backend projects  
+🔗 [View my technical articles on LinkedIn](https://www.linkedin.com/in/ana-zubieta/recent-activity/articles/)
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ana-zubieta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ateibuzena">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   <a href="mailto:ena.ateibuz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+  <a href="https://github.com/Ateibuzena">
+    <img src="https://img.shields.io/badge/GitHub-View_More_Projects-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=140&section=footer&flip=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Ateibuzena&label=Profile%20Views&color=87cefa&style=flat-square" alt="Profile views" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%2B+Data+Scientist;Building+AI-Powered+Applications;From+Data+to+Deployment" />
+
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+    </p>    
+</h1>
+
