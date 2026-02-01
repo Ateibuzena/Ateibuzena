@@ -1,14 +1,14 @@
-<!-- Header Contributions -->
+<!-- Header -->
 <p align="center">
-  <img src="https://github.pumbas.net/api/contributions/Ateibuzena?colour=0099ff&dotColour=00f5ff" alt="Ateibuzena's Contributions"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ana%20Zubieta&fontSize=80&fontColor=fff&animation=fadeIn"/>
+  
+  <p align="center">
+  I build <b>end-to-end data-driven applications.</b><br/></p>
+  <p align="center">From data pipelines and ML models to scalable backend APIs and user interfaces.<br/></p>
 </p>
 
 <p align="center">
-I build <b>end-to-end data-driven applications.</b><br/></p>
-<p align="center">From data pipelines and ML models to scalable backend APIs and user interfaces.<br/></p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Engineer+%2B+Data+Scientist;Building+AI-Powered+Applications;From+Data+to+Deployment" />
 </p>
 <p align="center">
 ✨ Design and deploy <b>production-ready ML systems</b><br/>
@@ -284,8 +284,10 @@ Automated deployment with Docker Compose
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%2B+Data+Scientist;Building+AI-Powered+Applications;From+Data+to+Deployment" />
-
+  <!-- Header Contributions -->
+  <p align="center">
+    <img src="https://github.pumbas.net/api/contributions/Ateibuzena?colour=0099ff&dotColour=00f5ff" alt="Ateibuzena's Contributions"/>
+  </p>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
     </p>    
