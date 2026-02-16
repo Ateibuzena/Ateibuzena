@@ -287,9 +287,6 @@ Automated deployment with Docker Compose
   <!-- Header Contributions -->
   <p align="center">
     <img src="https://github.pumbas.net/api/contributions/Ateibuzena?colour=0099ff&dotColour=00f5ff" alt="Ateibuzena's Contributions"/>
-  </p>
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
-    </p>    
+  </p> 
 </h1>
 
