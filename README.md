@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ana%20Zubieta&fontSize=80&fontColor=fff&animation=fadeIn"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ana%20Zubieta&fontSize=80&fontColor=fff&animation=fadeIn](https://drive.google.com/file/d/17NHwB5Rht4AQwZsxZvrILrBAnJ5HLSu5/view?usp=sharing)"/>
   
   <p align="center">
   I build <b>end-to-end data-driven applications.</b><br/></p>
