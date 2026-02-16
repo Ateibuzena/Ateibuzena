@@ -1,15 +1,15 @@
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ana%20Zubieta&fontSize=80&fontColor=fff&animation=fadeIn"/>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Developer+%2B+Data+Scientist;" />
+  </p>  
   
   <p align="center">
   I build <b>end-to-end data-driven applications.</b><br/></p>
   <p align="center">From data pipelines and ML models to scalable backend APIs and user interfaces.<br/></p>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Developer+%2B+Data+Scientist;" />
-</p>
 <p align="center">
 ✨ Design and deploy <b>production-ready ML systems</b><br/>
 🚀 Build <b>scalable microservices architectures</b> with TypeScript/Python<br/>
