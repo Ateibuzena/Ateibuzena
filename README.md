@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Developer+%2B+Data+Scientist;Building+AI-Powered+Applications;From+Data+to+Deployment" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Developer+%2B+Data+Scientist;" />
 </p>
 <p align="center">
 ✨ Design and deploy <b>production-ready ML systems</b><br/>
