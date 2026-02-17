@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ana%20Zubieta&fontSize=80&fontColor=fff&animation=fadeIn"/>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Developer;%2BData+Scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Scientist;" />
   </p>  
   
   <p align="center">
