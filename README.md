@@ -4,9 +4,7 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=87cefa&size=35&center=true&vCenter=true&width=700&lines=Software+Engineering;Data+Science;Machine+Learning" />
   </p>  
-
-<h2 align="center">🛠️</h2>
-
+  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,cpp,c,css,html&theme=dark" />
 </p>
